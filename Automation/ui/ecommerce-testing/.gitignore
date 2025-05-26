@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+.venv/
+ENV/
+env.bak/
+venv/
+ENV.bak/
+
+# Robot Framework output files
+*.log
+*.html
+*.xml
+output.xml
+log.html
+report.html
+*.png
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python environment files
+*.env
+*.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# IDE specific
+.idea/
+*.sublime-workspace
+*.sublime-project
